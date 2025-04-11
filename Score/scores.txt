@@ -1,0 +1,5 @@
+Player 1: 0, Player 2: 1, with: 4s
+Player 1: 0, Player 2: 1, with: 9s
+Player 1: 0, Player 2: 1, with: 15s
+Player 1: 1, Player 2: 0, with: 18s
+Player 1: 0, Player 2: 5, with: 31s
